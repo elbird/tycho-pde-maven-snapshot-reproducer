@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: custom-bundle
+Bundle-SymbolicName: custom-bundle
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: EVOLIT
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Automatic-Module-Name: custom.bundle
+Bundle-ActivationPolicy: lazy
+Import-Package: com.evolit.tycho.shared.constants

@@ -1,0 +1,5 @@
+# Include eclipse project files for Rich Client Platform projects
+.project
+.classpath
+.settings
+target
