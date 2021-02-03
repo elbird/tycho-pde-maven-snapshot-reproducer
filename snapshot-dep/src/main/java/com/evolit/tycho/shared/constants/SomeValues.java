@@ -4,4 +4,6 @@ public class SomeValues {
     
     public static final String FOO = "bar";
 
+    public static final String NEW_FEATURE = "foo";
+
 }
